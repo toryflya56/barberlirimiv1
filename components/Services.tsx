@@ -7,21 +7,21 @@ const services: ServiceItem[] = [
     title: 'The Executive Cut',
     description: 'Precision scissor cut tailored to your head shape, finished with a hot towel styling.',
     price: '$55',
-    image: 'https://picsum.photos/400/300?random=1'
+    image: 'https://images.unsplash.com/photo-1599305021543-435336297315?q=80&w=2070&auto=format&fit=crop'
   },
   {
     id: '2',
     title: 'Royal Shave',
     description: 'Traditional straight razor shave with pre-shave oil, hot foam, and cold towel finish.',
     price: '$45',
-    image: 'https://picsum.photos/400/300?random=2'
+    image: 'https://images.unsplash.com/photo-1621607512214-6c3494d76b5e?q=80&w=2070&auto=format&fit=crop'
   },
   {
     id: '3',
     title: 'Beard Sculpting',
     description: 'Detailed beard trimming and shaping, including line-up and conditioning treatment.',
     price: '$35',
-    image: 'https://picsum.photos/400/300?random=3'
+    image: 'https://images.unsplash.com/photo-1622288643924-d2784221160c?q=80&w=2070&auto=format&fit=crop'
   }
 ];
 
